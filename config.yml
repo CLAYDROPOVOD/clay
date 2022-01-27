@@ -1,0 +1,15 @@
+database:
+  host: 89.223.64.65
+  user: root
+  password: "adjDd8Xu"
+  database: satansms
+telegram:
+  token: 5286854182:AAF6ev4A5xNYjKOeL1MYZrLNdnEeJ_l0LyI
+  admin_id: "1695522613"
+qiwi:
+  wallet: 79999646054
+  token: b16ba56a49472b710038f071ce741b05
+service:
+  domen: https://sms-activate.ru
+  api_key: 168d3284fb9Af9c60864534811d9212f
+  tip: "2"
